@@ -1,6 +1,6 @@
 # I-Phish-You.sh
 
-This script is a phishing tool known as "I I Phish You 😋🤪" It is designed to create phishing pages for various online services, such as Instagram, Facebook, Snapchat, Twitter, and more. The script provides a menu for selecting the service you want to create a phishing page for, sets up a local web server, and uses tools like Ngrok or Serveo to expose the phishing page to the internet. When a victim interacts with the phishing page, their IP address and login credentials are captured and saved.
+This script is a phishing tool known as "I Phish You 😋🤪" It is designed to create phishing pages for various online services, such as Instagram, Facebook, Snapchat, Twitter, and more. The script provides a menu for selecting the service you want to create a phishing page for, sets up a local web server, and uses tools like Ngrok or Serveo to expose the phishing page to the internet. When a victim interacts with the phishing page, their IP address and login credentials are captured and saved.
 
 To run this tool, you will need the following:
 
